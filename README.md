@@ -21,7 +21,7 @@ Run
 -----
 ```bash
 docker run \
-    --name percona-server-5.6 \
+    --name percona-server-5.6-persistent \
     -p 3306:3306 \
     -v MySQLStorageVolume:/var/lib/mysql \
     andreisusanu/percona-server-5.6-persistent
