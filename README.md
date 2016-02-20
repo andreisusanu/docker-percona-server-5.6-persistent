@@ -27,6 +27,6 @@ docker run \
     andreisusanu/percona-server-5.6-persistent
 ```
 
-MySQL redentials
+MySQL credentials
 -----
 root without password (blank password)
