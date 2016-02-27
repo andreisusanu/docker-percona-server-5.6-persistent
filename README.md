@@ -1,3 +1,5 @@
+[![](https://badge.imagelayers.io/andreisusanu/percona-server-5.6-persistent:latest.svg)](https://imagelayers.io/?images=andreisusanu/percona-server-5.6-persistent:latest)
+
 percona-server-5.6-persistent
 =============
 
